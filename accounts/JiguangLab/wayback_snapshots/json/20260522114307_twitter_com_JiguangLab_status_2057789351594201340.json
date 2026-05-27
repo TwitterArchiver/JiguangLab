@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2057789351594201340",
+    "created_at": "2026-05-22T11:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057789351594201340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/chat/group_j…",
+          "end": 33,
+          "expanded_url": "https://x.com/i/chat/group_join/g1998547918832414773/muB2wnxjZn",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 10,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/flow/login",
+          "url": "https://t.co/5YqJI1OGfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057789351594201340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点击链接加入交流群\nhttps://t.co/5YqJI1OGfe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2057789351594201340",
+        "created_at": "2026-05-22T11:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057789351594201340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 33,
+              "expanded_url": "https://x.com/i/chat/group_join/g1998547918832414773/muB2wnxjZn",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 10,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/5YqJI1OGfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057789351594201340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点击链接加入交流群\nhttps://t.co/5YqJI1OGfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2056653730033074641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 917,
+          "like_count": 24816,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 3147
+        },
+        "username": "JiguangLab",
+        "verified": false
+      }
+    ]
+  }
+}

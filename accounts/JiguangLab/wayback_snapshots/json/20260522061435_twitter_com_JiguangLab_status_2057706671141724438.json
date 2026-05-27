@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057706661650018304"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "conversation_id": "2057706671141724438",
+    "created_at": "2026-05-22T06:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057706671141724438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "苯海拉明 苯海拉明基本不能用于od，且作为谵妄剂具有高毒性 苯海拉明(Diphenhydramine, DPH) 是第一代抗过敏药、抗晕动病药，属于谵妄剂。一般以盐酸配合物，即盐酸苯海拉明。 药理作用 作用机理 反激受体：组胺/H₁ 拮抗受体：毒蕈碱乙酰胆碱/mAChR/M₁, M₂, M₃, M₄, M₅ 阻滞通道：Na⁺ 药物作用 主要的副作用：谵妄、精神病状、记忆力丧失、阿兹海默症（老年痴呆...",
+          "display_url": "jile.bid/%E5%85%B6%E4%B…",
+          "end": 32,
+          "expanded_url": "https://jile.bid/%E5%85%B6%E4%BB%96%E8%8D%AF%E7%89%A9/104.html",
+          "start": 9,
+          "status": 200,
+          "title": "苯海拉明",
+          "unwound_url": "https://jile.bid/%E5%85%B6%E4%BB%96%E8%8D%AF%E7%89%A9/104.html",
+          "url": "https://t.co/qV59ktW82T"
+        },
+        {
+          "display_url": "pic.x.com/GcNtc3UGww",
+          "end": 56,
+          "expanded_url": "https://x.com/JiguangLab/status/2057706671141724438/photo/1",
+          "media_key": "3_2057706661650018304",
+          "start": 33,
+          "url": "https://t.co/GcNtc3UGww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057706671141724438",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "更新苯海拉明剂量\nhttps://t.co/qV59ktW82T https://t.co/GcNtc3UGww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2057706661650018304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5xTnuasAAS9fm.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057706661650018304"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2057706671141724438",
+        "created_at": "2026-05-22T06:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057706671141724438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "苯海拉明 苯海拉明基本不能用于od，且作为谵妄剂具有高毒性 苯海拉明(Diphenhydramine, DPH) 是第一代抗过敏药、抗晕动病药，属于谵妄剂。一般以盐酸配合物，即盐酸苯海拉明。 药理作用 作用机理 反激受体：组胺/H₁ 拮抗受体：毒蕈碱乙酰胆碱/mAChR/M₁, M₂, M₃, M₄, M₅ 阻滞通道：Na⁺ 药物作用 主要的副作用：谵妄、精神病状、记忆力丧失、阿兹海默症（老年痴呆...",
+              "display_url": "jile.bid/%E5%85%B6%E4%B…",
+              "end": 32,
+              "expanded_url": "https://jile.bid/%E5%85%B6%E4%BB%96%E8%8D%AF%E7%89%A9/104.html",
+              "start": 9,
+              "status": 200,
+              "title": "苯海拉明",
+              "unwound_url": "https://jile.bid/%E5%85%B6%E4%BB%96%E8%8D%AF%E7%89%A9/104.html",
+              "url": "https://t.co/qV59ktW82T"
+            },
+            {
+              "display_url": "pic.x.com/GcNtc3UGww",
+              "end": 56,
+              "expanded_url": "https://x.com/JiguangLab/status/2057706671141724438/photo/1",
+              "media_key": "3_2057706661650018304",
+              "start": 33,
+              "url": "https://t.co/GcNtc3UGww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057706671141724438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新苯海拉明剂量\nhttps://t.co/qV59ktW82T https://t.co/GcNtc3UGww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2056653730033074641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 937,
+          "like_count": 24813,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 3145
+        },
+        "username": "JiguangLab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057663604288282624"
+      ],
+      "media_source_tweet_id": [
+        "2057663610051313777"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "conversation_id": "2058343964076540095",
+    "created_at": "2026-05-24T00:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T01:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058343964076540095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1656312532213329922",
+          "start": 3,
+          "username": "SS_BRON_84t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I6OasLG6eH",
+          "end": 56,
+          "expanded_url": "https://x.com/SS_BRON_84t/status/2057663610051313777/photo/1",
+          "media_key": "3_2057663604288282624",
+          "start": 33,
+          "url": "https://t.co/I6OasLG6eH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058343964076540095",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057663610051313777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SS_BRON_84t: 個人輸入してたピンメジ届いた〜 https://t.co/I6OasLG6eH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057663604288282624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5KJWjaYAAI7Fq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057663604288282624"
+          ],
+          "media_source_tweet_id": [
+            "2057663610051313777"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2058343964076540095",
+        "created_at": "2026-05-24T00:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058343964076540095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1656312532213329922",
+              "start": 3,
+              "username": "SS_BRON_84t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6OasLG6eH",
+              "end": 56,
+              "expanded_url": "https://x.com/SS_BRON_84t/status/2057663610051313777/photo/1",
+              "media_key": "3_2057663604288282624",
+              "start": 33,
+              "url": "https://t.co/I6OasLG6eH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058343964076540095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057663610051313777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SS_BRON_84t: 個人輸入してたピンメジ届いた〜 https://t.co/I6OasLG6eH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057663604288282624"
+          ]
+        },
+        "author_id": "1656312532213329922",
+        "conversation_id": "2057663610051313777",
+        "created_at": "2026-05-22T03:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057663610051313777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6OasLG6eH",
+              "end": 39,
+              "expanded_url": "https://x.com/SS_BRON_84t/status/2057663610051313777/photo/1",
+              "media_key": "3_2057663604288282624",
+              "start": 16,
+              "url": "https://t.co/I6OasLG6eH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057663610051313777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 18832,
+          "like_count": 649,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "個人輸入してたピンメジ届いた〜 https://t.co/I6OasLG6eH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2130,
+          "following_count": 907,
+          "like_count": 24834,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 3162
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T14:57:59.000Z",
+        "description": "25 🚺 壁打ちツイ廃 双極Ⅱ型 境界性人格障害",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gyemga8hwe162c…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/gyemga8hwe162c7?t=cU9Wi7&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/AvMMevtMsm"
+              }
+            ]
+          }
+        },
+        "id": "1656312532213329922",
+        "name": "ｷ",
+        "pinned_tweet_id": "2058020671742177703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021630267107291137/zUy692_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 48,
+          "like_count": 8657,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 3540
+        },
+        "url": "https://t.co/AvMMevtMsm",
+        "username": "SS_BRON_84t",
+        "verified": false
+      }
+    ]
+  }
+}
