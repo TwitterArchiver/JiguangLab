@@ -5,5 +5,37 @@
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
-  "banner": "avatar/1500x500.jpg"
+  "banner": "avatar/1500x500.jpg",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "jile.bid",
+        "end": 26,
+        "expanded_url": "http://jile.bid",
+        "start": 3,
+        "url": "https://t.co/eW2O3fXtGc"
+      },
+      {
+        "display_url": "t.me/yuanliaogeming",
+        "end": 56,
+        "expanded_url": "https://t.me/yuanliaogeming",
+        "start": 33,
+        "url": "https://t.co/97NEazf5eZ"
+      },
+      {
+        "display_url": "discord.gg/XmNt8AXCEb",
+        "end": 86,
+        "expanded_url": "http://discord.gg/XmNt8AXCEb",
+        "start": 63,
+        "url": "https://t.co/a6mR5WgaIN"
+      },
+      {
+        "display_url": "ngl.link/yumeng_0721",
+        "end": 114,
+        "expanded_url": "https://ngl.link/yumeng_0721",
+        "start": 91,
+        "url": "https://t.co/fI760pi6Zw"
+      }
+    ]
+  }
 }
