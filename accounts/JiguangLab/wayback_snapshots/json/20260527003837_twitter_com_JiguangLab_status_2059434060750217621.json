@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059402725318910074",
+    "created_at": "2026-05-27T00:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059434060750217621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782699039139459072",
+          "start": 0,
+          "username": "KiloMaclaren"
+        },
+        {
+          "end": 28,
+          "id": "2057743680061255680",
+          "start": 14,
+          "username": "Koroshiiiiiii"
+        },
+        {
+          "end": 43,
+          "id": "2050073911635894272",
+          "start": 29,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059434060750217621",
+    "in_reply_to_user_id": "1782699039139459072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059402725318910074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiloMaclaren @Koroshiiiiiii @Lomyral114514 忽略"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059402725318910074",
+        "created_at": "2026-05-27T00:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059434060750217621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782699039139459072",
+              "start": 0,
+              "username": "KiloMaclaren"
+            },
+            {
+              "end": 28,
+              "id": "2057743680061255680",
+              "start": 14,
+              "username": "Koroshiiiiiii"
+            },
+            {
+              "end": 43,
+              "id": "2050073911635894272",
+              "start": 29,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059434060750217621",
+        "in_reply_to_user_id": "1782699039139459072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059402725318910074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiloMaclaren @Koroshiiiiiii @Lomyral114514 忽略"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782699039139459072",
+        "conversation_id": "2059402725318910074",
+        "created_at": "2026-05-26T22:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T23:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059402725318910074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 103,
+              "id": "2057743680061255680",
+              "start": 89,
+              "username": "Koroshiiiiiii"
+            },
+            {
+              "end": 118,
+              "id": "2050073911635894272",
+              "start": 104,
+              "username": "Lomyral114514"
+            },
+            {
+              "end": 130,
+              "id": "1847712034361659392",
+              "start": 119,
+              "username": "JiguangLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059402725318910074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个白兔里的DL-甲基麻黄碱盐酸盐到底是个什么东西？我在谷歌上都没查到多少关于这个药物的用药信息全是化学信息，我只想知道他的服用最大剂量是多少，中毒剂量是多少和中毒后症状是什么\n@Koroshiiiiiii @Lomyral114514 @JiguangLab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 902,
+          "like_count": 24878,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3149
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T09:12:44.000Z",
+        "description": "none",
+        "id": "1782699039139459072",
+        "name": "Kilo Maclaren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933402940670423041/EQG5idmC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 125,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 100
+        },
+        "username": "KiloMaclaren",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 241,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 545,
+          "like_count": 4493,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1358
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

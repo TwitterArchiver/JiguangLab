@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations that mention dinner.",
+          "id": "1006588737344507905",
+          "name": "Dinner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations that mention dinner.",
+          "id": "1006588737344507905",
+          "name": "Dinner"
+        }
+      }
+    ],
+    "conversation_id": "2059834079407968340",
+    "created_at": "2026-05-28T03:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059834079407968340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1664601148098224128",
+          "start": 3,
+          "username": "kami__519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059834079407968340",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059537689670717682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kami__519: お母さんに晩御飯なに？って聞いたら怒られるんだけどこれ自分の家だけ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          }
+        ],
+        "conversation_id": "2059834079407968340",
+        "created_at": "2026-05-28T03:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059834079407968340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1664601148098224128",
+              "start": 3,
+              "username": "kami__519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059834079407968340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059537689670717682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kami__519: お母さんに晩御飯なに？って聞いたら怒られるんだけどこれ自分の家だけ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664601148098224128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          }
+        ],
+        "conversation_id": "2059537689670717682",
+        "created_at": "2026-05-27T07:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059537689670717682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059537689670717682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 919974,
+          "like_count": 5449,
+          "quote_count": 384,
+          "reply_count": 341,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "お母さんに晩御飯なに？って聞いたら怒られるんだけどこれ自分の家だけ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 950,
+          "like_count": 24968,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3195
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T11:53:57.000Z",
+        "description": "16歳｜雑多｜サブ@0vgql7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "0vgql7"
+              }
+            ]
+          }
+        },
+        "id": "1664601148098224128",
+        "name": "紙",
+        "pinned_tweet_id": "2058828655909011788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058826146360524801/igjpFg6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18523,
+          "following_count": 500,
+          "like_count": 132921,
+          "listed_count": 41,
+          "media_count": 1037,
+          "tweet_count": 33980
+        },
+        "username": "kami__519",
+        "verified": false
+      }
+    ]
+  }
+}

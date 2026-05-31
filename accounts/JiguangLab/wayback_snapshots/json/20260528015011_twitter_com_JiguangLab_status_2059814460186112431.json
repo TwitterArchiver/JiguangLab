@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059814460186112431",
+    "created_at": "2026-05-28T01:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059814460186112431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1924086718145380352",
+          "start": 3,
+          "username": "43NlrivDwp953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059814460186112431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059602999014769032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @43NlrivDwp953: 飛び降りはしません。後遺症が怖いからです。\n首吊りはしません。首を吊れるいい高さがないからです。\n餓死はしません。苦しいらしいからです。\n人身事故はしません。人に迷惑をかけたくないからです。\n死ぬ時全部迷惑かかるの本当に辛い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059814460186112431",
+        "created_at": "2026-05-28T01:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059814460186112431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1924086718145380352",
+              "start": 3,
+              "username": "43NlrivDwp953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059814460186112431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059602999014769032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @43NlrivDwp953: 飛び降りはしません。後遺症が怖いからです。\n首吊りはしません。首を吊れるいい高さがないからです。\n餓死はしません。苦しいらしいからです。\n人身事故はしません。人に迷惑をかけたくないからです。\n死ぬ時全部迷惑かかるの本当に辛い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924086718145380352",
+        "conversation_id": "2059602999014769032",
+        "created_at": "2026-05-27T11:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059602999014769032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059602999014769032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 653,
+          "impression_count": 717088,
+          "like_count": 15783,
+          "quote_count": 165,
+          "reply_count": 99,
+          "retweet_count": 1287
+        },
+        "reply_settings": "everyone",
+        "text": "飛び降りはしません。後遺症が怖いからです。\n首吊りはしません。首を吊れるいい高さがないからです。\n餓死はしません。苦しいらしいからです。\n人身事故はしません。人に迷惑をかけたくないからです。\n死ぬ時全部迷惑かかるの本当に辛い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 945,
+          "like_count": 24946,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3178
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T12:56:56.000Z",
+        "description": "やみあか　一応受験生やってます",
+        "id": "1924086718145380352",
+        "name": "微糖メンヘラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962105970328498176/rt-U20yT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 39,
+          "like_count": 1082,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 110
+        },
+        "username": "43NlrivDwp953",
+        "verified": false
+      }
+    ]
+  }
+}

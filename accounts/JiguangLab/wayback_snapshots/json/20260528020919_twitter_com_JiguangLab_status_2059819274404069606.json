@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059819274404069606",
+    "created_at": "2026-05-28T02:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059819274404069606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019668522952269824",
+          "start": 3,
+          "username": "Aicgux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059819274404069606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059635015340986624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aicgux: 自◯しないと\n老衰まで生きることになってしまう\n人生怖すぎる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059819274404069606",
+        "created_at": "2026-05-28T02:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059819274404069606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019668522952269824",
+              "start": 3,
+              "username": "Aicgux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059819274404069606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059635015340986624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aicgux: 自◯しないと\n老衰まで生きることになってしまう\n人生怖すぎる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019668522952269824",
+        "conversation_id": "2059635015340986624",
+        "created_at": "2026-05-27T13:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059635015340986624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059635015340986624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14287,
+          "like_count": 624,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "自◯しないと\n老衰まで生きることになってしまう\n人生怖すぎる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 947,
+          "like_count": 24957,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3188
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T07:08:49.000Z",
+        "description": "精神疾患のせいで人生崩壊した人",
+        "id": "2019668522952269824",
+        "name": "So",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019676086632869888/bCB9kkBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 188,
+          "like_count": 3262,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 287
+        },
+        "username": "Aicgux",
+        "verified": false
+      }
+    ]
+  }
+}

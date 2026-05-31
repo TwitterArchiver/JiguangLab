@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059273030610899226",
+    "created_at": "2026-05-26T13:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059273030610899226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "US産直輸入の国内最高品質の原料を使用しているCBD専門店です。好きが昂じて仕事になりました。名古屋、東京、CBG、CBN、HHCH、HHCP、HHCPO。",
+          "display_url": "green-liquor.com",
+          "end": 110,
+          "expanded_url": "https://green-liquor.com/",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2059273044070424576/BrJSEe-4?format=png&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2059273044070424576/BrJSEe-4?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 87,
+          "status": 200,
+          "title": "Green Liquor",
+          "unwound_url": "https://green-liquor.com/",
+          "url": "https://t.co/vcDJ8vyj4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059273030610899226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天无聊，采访了一个日本地雷妹，问她们都买啥，会不会买策划，给了我一个网站可以买到你们一辈子都买不到的东西，我跟他们说国内可怜到普瑞巴林都禁了，一群人吃不明成分策划药等死\n\nhttps://t.co/vcDJ8vyj4m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059273030610899226",
+        "created_at": "2026-05-26T13:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059273030610899226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "US産直輸入の国内最高品質の原料を使用しているCBD専門店です。好きが昂じて仕事になりました。名古屋、東京、CBG、CBN、HHCH、HHCP、HHCPO。",
+              "display_url": "green-liquor.com",
+              "end": 110,
+              "expanded_url": "https://green-liquor.com/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2059273044070424576/BrJSEe-4?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059273044070424576/BrJSEe-4?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "Green Liquor",
+              "unwound_url": "https://green-liquor.com/",
+              "url": "https://t.co/vcDJ8vyj4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059273030610899226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天无聊，采访了一个日本地雷妹，问她们都买啥，会不会买策划，给了我一个网站可以买到你们一辈子都买不到的东西，我跟他们说国内可怜到普瑞巴林都禁了，一群人吃不明成分策划药等死\n\nhttps://t.co/vcDJ8vyj4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 899,
+          "like_count": 24881,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 3185
+        },
+        "username": "JiguangLab",
+        "verified": false
+      }
+    ]
+  }
+}

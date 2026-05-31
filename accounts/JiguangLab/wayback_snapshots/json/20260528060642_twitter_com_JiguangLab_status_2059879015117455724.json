@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059879015117455724",
+    "created_at": "2026-05-28T06:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059879015117455724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895442483125035008",
+          "start": 3,
+          "username": "ilsana188966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059879015117455724",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059627941877924267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ilsana188966: 나 예전에 정신병원 입원했었을때\n진심 나빼고 다 정신나간사람들이길래\n주치의한테 저 내보내주세요 여기 저빼고 다 정신나간 사람밖에없어서 미칠것같아요 라고 하니까 주치의가 너도 똑같다는 식으로 쳐다봐서 현실자각함"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059879015117455724",
+        "created_at": "2026-05-28T06:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059879015117455724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895442483125035008",
+              "start": 3,
+              "username": "ilsana188966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059879015117455724",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059627941877924267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ilsana188966: 나 예전에 정신병원 입원했었을때\n진심 나빼고 다 정신나간사람들이길래\n주치의한테 저 내보내주세요 여기 저빼고 다 정신나간 사람밖에없어서 미칠것같아요 라고 하니까 주치의가 너도 똑같다는 식으로 쳐다봐서 현실자각함"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895442483125035008",
+        "conversation_id": "2059627941877924267",
+        "created_at": "2026-05-27T13:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059627941877924267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059627941877924267",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2080,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "나 예전에 정신병원 입원했었을때\n진심 나빼고 다 정신나간사람들이길래\n주치의한테 저 내보내주세요 여기 저빼고 다 정신나간 사람밖에없어서 미칠것같아요 라고 하니까 주치의가 너도 똑같다는 식으로 쳐다봐서 현실자각함"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 953,
+          "like_count": 24970,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3196
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T11:54:44.000Z",
+        "description": "님들도최선의선택을하시길",
+        "id": "1895442483125035008",
+        "location": "대한민국 서울",
+        "name": "일사나",
+        "pinned_tweet_id": "2007779248854253910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921107058893426688/Kf3SgIDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 101,
+          "like_count": 4147,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 388
+        },
+        "username": "ilsana188966",
+        "verified": false
+      }
+    ]
+  }
+}

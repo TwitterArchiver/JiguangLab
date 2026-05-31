@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059551795115073538",
+        "3_2059551794339127296",
+        "3_2059551795421294592",
+        "3_2059551795840700416"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059551798843822382",
+    "created_at": "2026-05-27T08:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059551798843822382"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "drugtwt"
+        },
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "shrtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/se68BQcQcS",
+          "end": 65,
+          "expanded_url": "https://x.com/JiguangLab/status/2059551798843822382/photo/1",
+          "media_key": "3_2059551795115073538",
+          "start": 42,
+          "url": "https://t.co/se68BQcQcS"
+        },
+        {
+          "display_url": "pic.x.com/se68BQcQcS",
+          "end": 65,
+          "expanded_url": "https://x.com/JiguangLab/status/2059551798843822382/photo/1",
+          "media_key": "3_2059551794339127296",
+          "start": 42,
+          "url": "https://t.co/se68BQcQcS"
+        },
+        {
+          "display_url": "pic.x.com/se68BQcQcS",
+          "end": 65,
+          "expanded_url": "https://x.com/JiguangLab/status/2059551798843822382/photo/1",
+          "media_key": "3_2059551795421294592",
+          "start": 42,
+          "url": "https://t.co/se68BQcQcS"
+        },
+        {
+          "display_url": "pic.x.com/se68BQcQcS",
+          "end": 65,
+          "expanded_url": "https://x.com/JiguangLab/status/2059551798843822382/photo/1",
+          "media_key": "3_2059551795840700416",
+          "start": 42,
+          "url": "https://t.co/se68BQcQcS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059551798843822382",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "𓆩 お友達ください 𓆪\n\n02|♂|リスカ|OD\n#drugtwt #shrtwt https://t.co/se68BQcQcS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2059551795115073538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT_chhaIAIrJ2t.jpg",
+        "width": 720
+      },
+      {
+        "height": 476,
+        "media_key": "3_2059551794339127296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT_ceoaIAA3rqq.jpg",
+        "width": 640
+      },
+      {
+        "height": 503,
+        "media_key": "3_2059551795421294592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT_ciqasAARLcf.jpg",
+        "width": 674
+      },
+      {
+        "height": 958,
+        "media_key": "3_2059551795840700416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT_ckOaUAAXMdN.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059551795115073538",
+            "3_2059551794339127296",
+            "3_2059551795421294592",
+            "3_2059551795840700416"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059551798843822382",
+        "created_at": "2026-05-27T08:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059551798843822382"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "shrtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/se68BQcQcS",
+              "end": 65,
+              "expanded_url": "https://x.com/JiguangLab/status/2059551798843822382/photo/1",
+              "media_key": "3_2059551795115073538",
+              "start": 42,
+              "url": "https://t.co/se68BQcQcS"
+            },
+            {
+              "display_url": "pic.x.com/se68BQcQcS",
+              "end": 65,
+              "expanded_url": "https://x.com/JiguangLab/status/2059551798843822382/photo/1",
+              "media_key": "3_2059551794339127296",
+              "start": 42,
+              "url": "https://t.co/se68BQcQcS"
+            },
+            {
+              "display_url": "pic.x.com/se68BQcQcS",
+              "end": 65,
+              "expanded_url": "https://x.com/JiguangLab/status/2059551798843822382/photo/1",
+              "media_key": "3_2059551795421294592",
+              "start": 42,
+              "url": "https://t.co/se68BQcQcS"
+            },
+            {
+              "display_url": "pic.x.com/se68BQcQcS",
+              "end": 65,
+              "expanded_url": "https://x.com/JiguangLab/status/2059551798843822382/photo/1",
+              "media_key": "3_2059551795840700416",
+              "start": 42,
+              "url": "https://t.co/se68BQcQcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059551798843822382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "𓆩 お友達ください 𓆪\n\n02|♂|リスカ|OD\n#drugtwt #shrtwt https://t.co/se68BQcQcS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 928,
+          "like_count": 24911,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3166
+        },
+        "username": "JiguangLab",
+        "verified": false
+      }
+    ]
+  }
+}

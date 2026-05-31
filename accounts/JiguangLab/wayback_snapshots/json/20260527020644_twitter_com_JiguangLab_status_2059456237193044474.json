@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059456237193044474",
+    "created_at": "2026-05-27T02:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059456237193044474"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 112,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 138,
+          "start": 126,
+          "tag": "闘病垢さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2057833367929073664",
+          "start": 3,
+          "username": "Nagisa_knpbLOVE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059456237193044474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057837191309766671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nagisa_knpbLOVE: ななは凍結されて居なくなりました\n今はなぎさとしてインターネットで生きてるよ\n\n繋がりタグ🏷\n\n11│🚺│発達、境界性│自傷💊\n\n♡or↻無言フォローお迎え\n同界隈フォロバです\n\n #病み垢さんと繋がりたい\n #闘病垢さんと繋がりたい…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "苦手な人はブロックなどで自衛してください",
+        "height": 692,
+        "media_key": "3_2057837184569470977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7oBDfacAE7kIC.png",
+        "width": 596
+      },
+      {
+        "alt_text": "元垢のアイコンです\n\n彼氏います、251などは求めてないです、ゆるく絡みたいです\n承認欲求激高隠す気ないです",
+        "height": 400,
+        "media_key": "3_2057837184997347328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7oBFFbUAAVMnj.jpg",
+        "width": 400
+      },
+      {
+        "alt_text": "たまーにこうやってトモコレの作品のせたり絵を描くからいいねリポストしてくれたら超喜ぶよ！",
+        "height": 2048,
+        "media_key": "3_2057837187564220416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7oBOpasAAdoJS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059456237193044474",
+        "created_at": "2026-05-27T02:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059456237193044474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 112,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 138,
+              "start": 126,
+              "tag": "闘病垢さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2057833367929073664",
+              "start": 3,
+              "username": "Nagisa_knpbLOVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059456237193044474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057837191309766671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nagisa_knpbLOVE: ななは凍結されて居なくなりました\n今はなぎさとしてインターネットで生きてるよ\n\n繋がりタグ🏷\n\n11│🚺│発達、境界性│自傷💊\n\n♡or↻無言フォローお迎え\n同界隈フォロバです\n\n #病み垢さんと繋がりたい\n #闘病垢さんと繋がりたい…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057837184569470977",
+            "3_2057837184997347328",
+            "3_2057837187564220416"
+          ]
+        },
+        "author_id": "2057833367929073664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057837191309766671",
+        "created_at": "2026-05-22T14:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057837191309766671"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 91,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 117,
+              "start": 105,
+              "tag": "闘病垢さんと繋がりたい"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "病み垢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6g24rJV28j",
+              "end": 147,
+              "expanded_url": "https://x.com/Nagisa_knpbLOVE/status/2057837191309766671/photo/1",
+              "media_key": "3_2057837184569470977",
+              "start": 124,
+              "url": "https://t.co/6g24rJV28j"
+            },
+            {
+              "display_url": "pic.x.com/6g24rJV28j",
+              "end": 147,
+              "expanded_url": "https://x.com/Nagisa_knpbLOVE/status/2057837191309766671/photo/1",
+              "media_key": "3_2057837184997347328",
+              "start": 124,
+              "url": "https://t.co/6g24rJV28j"
+            },
+            {
+              "display_url": "pic.x.com/6g24rJV28j",
+              "end": 147,
+              "expanded_url": "https://x.com/Nagisa_knpbLOVE/status/2057837191309766671/photo/1",
+              "media_key": "3_2057837187564220416",
+              "start": 124,
+              "url": "https://t.co/6g24rJV28j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057837191309766671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 709,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ななは凍結されて居なくなりました\n今はなぎさとしてインターネットで生きてるよ\n\n繋がりタグ🏷\n\n11│🚺│発達、境界性│自傷💊\n\n♡or↻無言フォローお迎え\n同界隈フォロバです\n\n #病み垢さんと繋がりたい\n #闘病垢さんと繋がりたい\n #病み垢 https://t.co/6g24rJV28j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 906,
+          "like_count": 24884,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3152
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T14:39:43.000Z",
+        "description": "11│🚺│病み\n今度はななじゃなくてなぎさとしてインターネットで生きる\n\nたまにトモコレと絵",
+        "id": "2057833367929073664",
+        "location": "凍結された元なな",
+        "name": "なぎさ",
+        "pinned_tweet_id": "2057837191309766671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057834044923293696/cMSH633z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 55,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "Nagisa_knpbLOVE",
+        "verified": false
+      }
+    ]
+  }
+}

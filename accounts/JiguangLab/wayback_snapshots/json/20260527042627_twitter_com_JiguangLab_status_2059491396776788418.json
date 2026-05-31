@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059255414198571217",
+    "created_at": "2026-05-27T04:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059491396776788418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054829279762935809",
+          "start": 0,
+          "username": "nemunemu_son"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059491396776788418",
+    "in_reply_to_user_id": "2054829279762935809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059255414198571217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemunemu_son 好努力"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2405,
+        "height": 1280,
+        "media_key": "7_2059255394531528704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059255394531528704/pu/img/opDQ-vflD4fwfjbe.jpg",
+        "public_metrics": {
+          "view_count": 48
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059255394531528704/pu/vid/avc1/320x568/2rNL_NYxqpCUBUSx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059255394531528704/pu/vid/avc1/480x852/Z9n0MNAa_yXKHMMa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059255394531528704/pu/vid/avc1/720x1280/2OjxR06qKhf_2EsY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059255394531528704/pu/pl/c5mL7dSimJujFeKZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059255414198571217",
+        "created_at": "2026-05-27T04:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059491396776788418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054829279762935809",
+              "start": 0,
+              "username": "nemunemu_son"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059491396776788418",
+        "in_reply_to_user_id": "2054829279762935809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059255414198571217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemunemu_son 好努力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059255394531528704"
+          ]
+        },
+        "author_id": "2054829279762935809",
+        "conversation_id": "2059255414198571217",
+        "created_at": "2026-05-26T12:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059255414198571217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnV2pQny2T",
+              "end": 69,
+              "expanded_url": "https://x.com/nemunemu_son/status/2059255414198571217/video/1",
+              "media_key": "7_2059255394531528704",
+              "start": 46,
+              "url": "https://t.co/EnV2pQny2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059255414198571217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日中国語教えてもらった！！\n外で叫んでる！\n\n我今天学了中文。\n我放学回家的路上练习了！ https://t.co/EnV2pQny2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059470773912580096/FPcI1SrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 919,
+          "like_count": 24902,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3161
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T07:41:07.000Z",
+        "description": "皆愛してる！！\n\n我目前正在學習繁體中文。\n隨時歡迎你跟我聊天！我們交朋友吧！",
+        "id": "2054829279762935809",
+        "name": "あ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838465087565824/EmKTOjyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 10,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 58
+        },
+        "username": "nemunemu_son",
+        "verified": false
+      }
+    ]
+  }
+}

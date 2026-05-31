@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059818258812002746",
+    "created_at": "2026-05-28T02:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059818258812002746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046494603717787648",
+          "start": 3,
+          "username": "gomenne_0777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059818258812002746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059235926971388204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gomenne_0777: もう殺してください、無理だと思うのでこれ以上社会のお荷物になる前に死にたいです 自殺するにも人に迷惑がかかるってママに言われた 産まなければこんなことになってなかったよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059818258812002746",
+        "created_at": "2026-05-28T02:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059818258812002746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046494603717787648",
+              "start": 3,
+              "username": "gomenne_0777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059818258812002746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059235926971388204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gomenne_0777: もう殺してください、無理だと思うのでこれ以上社会のお荷物になる前に死にたいです 自殺するにも人に迷惑がかかるってママに言われた 産まなければこんなことになってなかったよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046494603717787648",
+        "conversation_id": "2059235926971388204",
+        "created_at": "2026-05-26T11:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059235926971388204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059235926971388204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 37455,
+          "like_count": 1916,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "もう殺してください、無理だと思うのでこれ以上社会のお荷物になる前に死にたいです 自殺するにも人に迷惑がかかるってママに言われた 産まなければこんなことになってなかったよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 946,
+          "like_count": 24951,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3181
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T07:42:44.000Z",
+        "description": "L  2004 大丈夫になりたい @sem_0772",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "sem_0772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ed7s230ik5zpjd…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ed7s230ik5zpjd3?t=e82ya9&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/92bUHIM88m"
+              }
+            ]
+          }
+        },
+        "id": "2046494603717787648",
+        "location": "凍結したので新しいアカウントです",
+        "name": "ごめんね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046496373466689536/9AfJ3kiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 7,
+          "media_count": 60,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/92bUHIM88m",
+        "username": "gomenne_0777",
+        "verified": false
+      }
+    ]
+  }
+}

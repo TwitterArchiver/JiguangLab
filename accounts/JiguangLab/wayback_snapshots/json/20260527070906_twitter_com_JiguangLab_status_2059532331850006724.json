@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059532331850006724",
+    "created_at": "2026-05-27T07:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059532331850006724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036357425591361537",
+          "start": 3,
+          "username": "nx_lln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059532331850006724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059506290490212390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nx_lln: 途中で気絶して生きてた勘弁して"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059532331850006724",
+        "created_at": "2026-05-27T07:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059532331850006724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036357425591361537",
+              "start": 3,
+              "username": "nx_lln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059532331850006724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059506290490212390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nx_lln: 途中で気絶して生きてた勘弁して"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036357425591361537",
+        "conversation_id": "2059506290490212390",
+        "created_at": "2026-05-27T05:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059506290490212390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nx_lln/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/nx_lln/status/2059266742963278163",
+              "start": 16,
+              "url": "https://t.co/JGZ60qqtkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059506290490212390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20042,
+          "like_count": 94,
+          "quote_count": 5,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059266742963278163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "途中で気絶して生きてた勘弁して https://t.co/JGZ60qqtkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059470773912580096/FPcI1SrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 922,
+          "like_count": 24903,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3163
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T08:20:32.000Z",
+        "description": "🗝@xnnx_lx\nにこいち @jmwrae\n♥ @hkr1230_xUox\nDM見れないからインスタにして\nnx_lln",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 1,
+                "username": "xnnx_lx"
+              },
+              {
+                "end": 22,
+                "start": 15,
+                "username": "jmwrae"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "hkr1230_xUox"
+              }
+            ]
+          }
+        },
+        "id": "2036357425591361537",
+        "location": "なごや",
+        "name": "はったしょ",
+        "pinned_tweet_id": "2043980033593868423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036358251407962112/cfXouVDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 7,
+          "like_count": 1275,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 696
+        },
+        "username": "nx_lln",
+        "verified": false
+      }
+    ]
+  }
+}

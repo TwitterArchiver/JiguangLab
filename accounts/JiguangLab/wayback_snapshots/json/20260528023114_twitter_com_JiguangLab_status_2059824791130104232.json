@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059824791130104232",
+    "created_at": "2026-05-28T02:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059824791130104232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1474685998772764674",
+          "start": 3,
+          "username": "pinkpilled__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059824791130104232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059733643178729833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinkpilled__: I always thought jumping off somewhere high is the best suicide method because it feels like you're flying and its not pa…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059824791130104232",
+        "created_at": "2026-05-28T02:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059824791130104232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1474685998772764674",
+              "start": 3,
+              "username": "pinkpilled__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059824791130104232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059733643178729833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinkpilled__: I always thought jumping off somewhere high is the best suicide method because it feels like you're flying and its not pa…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474685998772764674",
+        "conversation_id": "2059733643178729833",
+        "created_at": "2026-05-27T20:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059733643178729833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059733643178729833",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 17552,
+          "like_count": 765,
+          "quote_count": 18,
+          "reply_count": 48,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "I always thought jumping off somewhere high is the best suicide method because it feels like you're flying and its not painful if the death is instant"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 947,
+          "like_count": 24961,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3190
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T10:18:50.000Z",
+        "description": "Pyan | she/her | 17 in March | #genshintwt #pvztwt #shedtwt #burgertwt #moetwt #everythingtwt | basic dni + creeps | cw: 53kg / gw: 43kg |\nlooking for oomfs 🩷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 31,
+                "tag": "genshintwt"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "pvztwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "tag": "burgertwt"
+              },
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "moetwt"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "tag": "everythingtwt"
+              }
+            ]
+          }
+        },
+        "id": "1474685998772764674",
+        "location": "⋆. 𐙚˚࿔ 🩷🩹 𝜗𝜚˚⋆",
+        "name": "Pyan ! ⋆𐙚₊˚⊹♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056434905530155012/jG5DU5Pc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 91,
+          "like_count": 649,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 301
+        },
+        "username": "pinkpilled__",
+        "verified": false
+      }
+    ]
+  }
+}

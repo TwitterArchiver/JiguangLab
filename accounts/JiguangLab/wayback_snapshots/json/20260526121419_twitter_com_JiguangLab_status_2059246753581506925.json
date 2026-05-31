@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059116037719965696"
+      ],
+      "media_source_tweet_id": [
+        "2059116044690903368"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059246753581506925",
+    "created_at": "2026-05-26T12:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059246753581506925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011513535931854848",
+          "start": 3,
+          "username": "everthe1ess"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WCqmWVJOwd",
+          "end": 40,
+          "expanded_url": "https://x.com/everthe1ess/status/2059116044690903368/photo/1",
+          "media_key": "3_2059116037719965696",
+          "start": 17,
+          "url": "https://t.co/WCqmWVJOwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059246753581506925",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059116044690903368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @everthe1ess: https://t.co/WCqmWVJOwd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059116037719965696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNzIGubwAA1_8e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059116037719965696"
+          ],
+          "media_source_tweet_id": [
+            "2059116044690903368"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059246753581506925",
+        "created_at": "2026-05-26T12:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059246753581506925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011513535931854848",
+              "start": 3,
+              "username": "everthe1ess"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCqmWVJOwd",
+              "end": 40,
+              "expanded_url": "https://x.com/everthe1ess/status/2059116044690903368/photo/1",
+              "media_key": "3_2059116037719965696",
+              "start": 17,
+              "url": "https://t.co/WCqmWVJOwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059246753581506925",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059116044690903368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @everthe1ess: https://t.co/WCqmWVJOwd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059116037719965696"
+          ]
+        },
+        "author_id": "2011513535931854848",
+        "conversation_id": "2059116044690903368",
+        "created_at": "2026-05-26T03:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059116044690903368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCqmWVJOwd",
+              "end": 23,
+              "expanded_url": "https://x.com/everthe1ess/status/2059116044690903368/photo/1",
+              "media_key": "3_2059116037719965696",
+              "start": 0,
+              "url": "https://t.co/WCqmWVJOwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059116044690903368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WCqmWVJOwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 899,
+          "like_count": 24884,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 3189
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T18:59:40.000Z",
+        "description": "",
+        "id": "2011513535931854848",
+        "name": "氷",
+        "pinned_tweet_id": "2059116433167315194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057347722131439616/F5l1USvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 83,
+          "like_count": 10026,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "username": "everthe1ess",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+          "id": "109",
+          "name": "Reoccurring Trends"
+        },
+        "entity": {
+          "description": "Blue Monday",
+          "id": "952861598997143552",
+          "name": "Blue Monday"
+        }
+      }
+    ],
+    "conversation_id": "2059587030536126906",
+    "created_at": "2026-05-27T10:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059587030536126906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1980941101763842049",
+          "start": 3,
+          "username": "needygirl_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059587030536126906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 567
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058216635962408968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_anime: 𝙽𝙴𝙴𝙳𝚈 𝙶𝙸𝚁𝙻 𝙾𝚅𝙴𝚁𝙳𝙾𝚂𝙴\n     ►►𝙽𝚎𝚡𝚝 𝙲𝚑𝚊𝚙𝚝𝚎𝚛 𝙿𝚅\n\n　　  ＼＼　 \\ 　/ 　／／\n　　 　決　戦　開　幕\n　 　 ／／　 /　 \\　 ＼＼\n\n  次回 第9話「Blue Monday」\n     …"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62228,
+        "height": 1080,
+        "media_key": "13_2058213298437578752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058213298437578752/img/Qr6HqbK1XaV3WC8C.jpg",
+        "public_metrics": {
+          "view_count": 42710
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058213298437578752/vid/avc1/480x270/NJBQ_PEXu92tdi33.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058213298437578752/vid/avc1/640x360/qbpKNJsdcyNdyhjA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058213298437578752/vid/avc1/1280x720/kLZ7GTqXauM5b5Q1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058213298437578752/pl/bzcaaKtnAYGVrjOp.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "description": "Blue Monday",
+              "id": "952861598997143552",
+              "name": "Blue Monday"
+            }
+          }
+        ],
+        "conversation_id": "2059587030536126906",
+        "created_at": "2026-05-27T10:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059587030536126906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1980941101763842049",
+              "start": 3,
+              "username": "needygirl_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059587030536126906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 567
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058216635962408968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_anime: 𝙽𝙴𝙴𝙳𝚈 𝙶𝙸𝚁𝙻 𝙾𝚅𝙴𝚁𝙳𝙾𝚂𝙴\n     ►►𝙽𝚎𝚡𝚝 𝙲𝚑𝚊𝚙𝚝𝚎𝚛 𝙿𝚅\n\n　　  ＼＼　 \\ 　/ 　／／\n　　 　決　戦　開　幕\n　 　 ／／　 /　 \\　 ＼＼\n\n  次回 第9話「Blue Monday」\n     …"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058213298437578752"
+          ]
+        },
+        "author_id": "1980941101763842049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "description": "Blue Monday",
+              "id": "952861598997143552",
+              "name": "Blue Monday"
+            }
+          }
+        ],
+        "conversation_id": "2058216635962408968",
+        "created_at": "2026-05-23T16:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058216635962408968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6SSALzsoF",
+              "end": 167,
+              "expanded_url": "https://x.com/needygirl_anime/status/2058216635962408968/video/1",
+              "media_key": "13_2058213298437578752",
+              "start": 144,
+              "url": "https://t.co/h6SSALzsoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058216635962408968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 297,
+          "impression_count": 116169,
+          "like_count": 2675,
+          "quote_count": 64,
+          "reply_count": 5,
+          "retweet_count": 567
+        },
+        "reply_settings": "everyone",
+        "text": "𝙽𝙴𝙴𝙳𝚈 𝙶𝙸𝚁𝙻 𝙾𝚅𝙴𝚁𝙳𝙾𝚂𝙴\n     ►►𝙽𝚎𝚡𝚝 𝙲𝚑𝚊𝚙𝚝𝚎𝚛 𝙿𝚅\n\n　　  ＼＼　 \\ 　/ 　／／\n　　 　決　戦　開　幕\n　 　 ／／　 /　 \\　 ＼＼\n\n  次回 第9話「Blue Monday」\n         5/30(土)24:30放送\n\n#ニディガ https://t.co/h6SSALzsoF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 931,
+          "like_count": 24922,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3168
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T10:17:13.000Z",
+        "description": "『NEEDY GIRL OVERDOSE』アニメ公式アカウント｜TVアニメ26年4月より毎週土曜24:30～ 順次放送中｜アニメーション制作：Yostar Pictures｜【推奨タグ】#ニディガ ｜【ラジオ公式タグ】#ニディガラジオ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "ニディガ"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "ニディガラジオ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 23,
+                "expanded_url": "https://needygirl-anime.com/",
+                "start": 0,
+                "url": "https://t.co/6rMK2MS8Mu"
+              }
+            ]
+          }
+        },
+        "id": "1980941101763842049",
+        "name": "アニメ『NEEDY GIRL OVERDOSE』公式",
+        "pinned_tweet_id": "2058216635962408968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031308461120884736/op5QKraD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43949,
+          "following_count": 25,
+          "like_count": 22,
+          "listed_count": 109,
+          "media_count": 620,
+          "tweet_count": 1237
+        },
+        "url": "https://t.co/6rMK2MS8Mu",
+        "username": "needygirl_anime",
+        "verified": false
+      }
+    ]
+  }
+}

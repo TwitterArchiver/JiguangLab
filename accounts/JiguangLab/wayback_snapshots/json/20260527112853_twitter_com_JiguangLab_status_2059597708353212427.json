@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059334925464273361",
+    "created_at": "2026-05-27T11:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059597708353212427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1812146390824628224",
+          "start": 0,
+          "username": "puwa_1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059597708353212427",
+    "in_reply_to_user_id": "1812146390824628224",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059334925464273361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puwa_1225 happy birthday day"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059334921194549248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQ6MzNbsAAXp_E.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059334925464273361",
+        "created_at": "2026-05-27T11:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059597708353212427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1812146390824628224",
+              "start": 0,
+              "username": "puwa_1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059597708353212427",
+        "in_reply_to_user_id": "1812146390824628224",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059334925464273361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puwa_1225 happy birthday day"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059334921194549248"
+          ]
+        },
+        "author_id": "1812146390824628224",
+        "conversation_id": "2059334925464273361",
+        "created_at": "2026-05-26T18:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059334925464273361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bP37ETfU1t",
+              "end": 42,
+              "expanded_url": "https://x.com/puwa_1225/status/2059334925464273361/photo/1",
+              "media_key": "3_2059334921194549248",
+              "start": 19,
+              "url": "https://t.co/bP37ETfU1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059334925464273361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1242,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "風船飛んだ！誰か祝ってください😭🎂🎉 https://t.co/bP37ETfU1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 932,
+          "like_count": 24927,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3171
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T15:25:51.000Z",
+        "description": "18↑┊︎病み垢┊︎👊🏻🩸垂れ流し┊︎お別れ🧱┊︎顔面 青春ｺﾝﾌﾟ┊︎全日→通信┊︎アムカ┊︎DM即ブロ￤会いません┊︎初手タメ〇┊︎絵が好き",
+        "id": "1812146390824628224",
+        "name": "からあげ",
+        "pinned_tweet_id": "2059334925464273361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945159404279504908/Uj1aU_ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 271,
+          "like_count": 55004,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 739
+        },
+        "username": "puwa_1225",
+        "verified": false
+      }
+    ]
+  }
+}

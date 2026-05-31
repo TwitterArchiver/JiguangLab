@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059476481324339526",
+    "created_at": "2026-05-27T03:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059476481324339526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795654287948955648",
+          "start": 3,
+          "username": "megu_pon_te"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059476481324339526",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057119772907901194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @megu_pon_te: MDMAが1ヶ月後でも尿検査で検出されるという話を聞いたのだけれど、やっぱりMDMA自体の代謝阻害作用は思われてるよりもかなり強いのではないかという予想。覚醒剤だとそこまで代謝阻害されてないことから考えると、メチレンジオキシ基って実はけっこうヤ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059476481324339526",
+        "created_at": "2026-05-27T03:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059476481324339526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795654287948955648",
+              "start": 3,
+              "username": "megu_pon_te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059476481324339526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057119772907901194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @megu_pon_te: MDMAが1ヶ月後でも尿検査で検出されるという話を聞いたのだけれど、やっぱりMDMA自体の代謝阻害作用は思われてるよりもかなり強いのではないかという予想。覚醒剤だとそこまで代謝阻害されてないことから考えると、メチレンジオキシ基って実はけっこうヤ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795654287948955648",
+        "conversation_id": "2057119772907901194",
+        "created_at": "2026-05-20T15:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057119772907901194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057119772907901194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 42025,
+          "like_count": 191,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "MDMAが1ヶ月後でも尿検査で検出されるという話を聞いたのだけれど、やっぱりMDMA自体の代謝阻害作用は思われてるよりもかなり強いのではないかという予想。覚醒剤だとそこまで代謝阻害されてないことから考えると、メチレンジオキシ基って実はけっこうヤバいのではないかと思いました。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059470773912580096/FPcI1SrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 913,
+          "like_count": 24888,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3155
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T03:12:13.000Z",
+        "description": "趣味は薬物、好きなものは薬物、好きな食べものは薬物\nドラッグとハームリダクションについて実験と勉強をしている哲学的探求者です。\nめぐポンと気軽に呼んでください！\nDMオープンにしていますのでお気軽にどうぞ！\n（投稿は全て昔の話だと思います）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/megupon/megupo…",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/megupon/megupon_blog.wiki.git",
+                "start": 0,
+                "url": "https://t.co/rRmZxRHxSg"
+              }
+            ]
+          }
+        },
+        "id": "1795654287948955648",
+        "name": "👁‍🗨目黒ポン亭（めぐポン）薬物✍️",
+        "pinned_tweet_id": "1973723386414338340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828773644736331776/Tp5SF__A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10267,
+          "following_count": 7667,
+          "like_count": 28222,
+          "listed_count": 29,
+          "media_count": 287,
+          "tweet_count": 8638
+        },
+        "url": "https://t.co/rRmZxRHxSg",
+        "username": "megu_pon_te",
+        "verified": false
+      }
+    ]
+  }
+}

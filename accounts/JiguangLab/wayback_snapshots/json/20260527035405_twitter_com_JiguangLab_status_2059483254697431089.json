@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059472112570839040",
+        "3_2059472112570736640"
+      ],
+      "media_source_tweet_id": [
+        "2059472126386803177",
+        "2059472126386803177"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059483254697431089",
+    "created_at": "2026-05-27T03:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059483254697431089"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "雰囲気界隈"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "メンヘラ"
+        },
+        {
+          "end": 34,
+          "start": 28,
+          "tag": "fypシ゚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699574342030622720",
+          "start": 3,
+          "username": "AidayyTAT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/puzNdfkLHH",
+          "end": 58,
+          "expanded_url": "https://x.com/AidayyTAT/status/2059472126386803177/photo/1",
+          "media_key": "3_2059472112570839040",
+          "start": 35,
+          "url": "https://t.co/puzNdfkLHH"
+        },
+        {
+          "display_url": "pic.x.com/puzNdfkLHH",
+          "end": 58,
+          "expanded_url": "https://x.com/AidayyTAT/status/2059472126386803177/photo/1",
+          "media_key": "3_2059472112570736640",
+          "start": 35,
+          "url": "https://t.co/puzNdfkLHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059483254697431089",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059472126386803177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AidayyTAT: #雰囲気界隈 #メンヘラ #fypシ゚ https://t.co/puzNdfkLHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059472112570839040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS2-Y6bsAAASL-.jpg",
+        "width": 1578
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059472112570736640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS2-Y6aIAAm3Hl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059472112570839040",
+            "3_2059472112570736640"
+          ],
+          "media_source_tweet_id": [
+            "2059472126386803177",
+            "2059472126386803177"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059483254697431089",
+        "created_at": "2026-05-27T03:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059483254697431089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "雰囲気界隈"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "fypシ゚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699574342030622720",
+              "start": 3,
+              "username": "AidayyTAT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/puzNdfkLHH",
+              "end": 58,
+              "expanded_url": "https://x.com/AidayyTAT/status/2059472126386803177/photo/1",
+              "media_key": "3_2059472112570839040",
+              "start": 35,
+              "url": "https://t.co/puzNdfkLHH"
+            },
+            {
+              "display_url": "pic.x.com/puzNdfkLHH",
+              "end": 58,
+              "expanded_url": "https://x.com/AidayyTAT/status/2059472126386803177/photo/1",
+              "media_key": "3_2059472112570736640",
+              "start": 35,
+              "url": "https://t.co/puzNdfkLHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059483254697431089",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059472126386803177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AidayyTAT: #雰囲気界隈 #メンヘラ #fypシ゚ https://t.co/puzNdfkLHH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059472112570839040",
+            "3_2059472112570736640"
+          ]
+        },
+        "author_id": "1699574342030622720",
+        "conversation_id": "2059472126386803177",
+        "created_at": "2026-05-27T03:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059472126386803177"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "雰囲気界隈"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "fypシ゚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/puzNdfkLHH",
+              "end": 43,
+              "expanded_url": "https://x.com/AidayyTAT/status/2059472126386803177/photo/1",
+              "media_key": "3_2059472112570839040",
+              "start": 20,
+              "url": "https://t.co/puzNdfkLHH"
+            },
+            {
+              "display_url": "pic.x.com/puzNdfkLHH",
+              "end": 43,
+              "expanded_url": "https://x.com/AidayyTAT/status/2059472126386803177/photo/1",
+              "media_key": "3_2059472112570736640",
+              "start": 20,
+              "url": "https://t.co/puzNdfkLHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059472126386803177",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#雰囲気界隈 #メンヘラ #fypシ゚ https://t.co/puzNdfkLHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059470773912580096/FPcI1SrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 914,
+          "like_count": 24893,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3157
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T00:05:18.000Z",
+        "description": "低浮上｜中国語ok 日本語の勉強中",
+        "id": "1699574342030622720",
+        "location": "水色療養所",
+        "name": "やお",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915709255514017792/0sjnUJtz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 0,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 33
+        },
+        "username": "AidayyTAT",
+        "verified": false
+      }
+    ]
+  }
+}

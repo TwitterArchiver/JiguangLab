@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059409779664339124",
+    "created_at": "2026-05-27T00:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059434145106079804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1023828784208723969",
+          "start": 0,
+          "username": "rua_0000_117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059434145106079804",
+    "in_reply_to_user_id": "1023828784208723969",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059409779664339124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rua_0000_117 hbd"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059409779664339124].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059409779664339124",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059409779664339124"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059409779664339124",
+        "created_at": "2026-05-27T00:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059434145106079804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1023828784208723969",
+              "start": 0,
+              "username": "rua_0000_117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059434145106079804",
+        "in_reply_to_user_id": "1023828784208723969",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059409779664339124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rua_0000_117 hbd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 902,
+          "like_count": 24878,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3150
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-30T07:12:58.000Z",
+        "description": "病み垢┊︎うつ病┊︎皮膚むしり症┊︎不安神経症┊︎不眠症┊︎メンヘラ┊︎OD┊︎リスカ\n親友→@yua_0801_0914_/涙と愛って書いてるあです/主食はお薬です/手帳申請中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "yua_0801_0914_"
+              }
+            ]
+          }
+        },
+        "id": "1023828784208723969",
+        "location": "日本",
+        "name": "涙愛(るあ)",
+        "pinned_tweet_id": "2053461518373851274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047653776824401920/XS980tBL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 278,
+          "like_count": 1496,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 380
+        },
+        "username": "rua_0000_117",
+        "verified": false
+      }
+    ]
+  }
+}

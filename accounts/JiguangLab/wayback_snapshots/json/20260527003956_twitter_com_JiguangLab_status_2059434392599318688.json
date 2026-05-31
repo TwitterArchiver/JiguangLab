@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055061210152996864"
+      ],
+      "media_source_tweet_id": [
+        "2055061214926192909"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059434392599318688",
+    "created_at": "2026-05-27T00:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059434392599318688"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 33,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 60,
+          "start": 46,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 74,
+          "start": 61,
+          "tag": "美男美女さんと繋がりたい"
+        },
+        {
+          "end": 94,
+          "start": 75,
+          "tag": "雰囲気1mmでもいいと思ったらいいね"
+        },
+        {
+          "end": 101,
+          "start": 95,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 110,
+          "start": 102,
+          "tag": "サブカル系女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824933870439206912",
+          "start": 3,
+          "username": "Ox_e_e_xO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ELae29ENhF",
+          "end": 134,
+          "expanded_url": "https://x.com/Ox_e_e_xO/status/2055061214926192909/photo/1",
+          "media_key": "3_2055061210152996864",
+          "start": 111,
+          "url": "https://t.co/ELae29ENhF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059434392599318688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055061214926192909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ox_e_e_xO: 私じゃなきゃダメだと言って‼️\n\n #病み垢さんと繋がりたい #自撮り界隈さんと繋がりたい #美男美女さんと繋がりたい #雰囲気1mmでもいいと思ったらいいね #地雷系女子 #サブカル系女子 https://t.co/ELae29ENhF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055061210152996864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIULSE7akAAdxz0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055061210152996864"
+          ],
+          "media_source_tweet_id": [
+            "2055061214926192909"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059434392599318688",
+        "created_at": "2026-05-27T00:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059434392599318688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 60,
+              "start": 46,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 74,
+              "start": 61,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 94,
+              "start": 75,
+              "tag": "雰囲気1mmでもいいと思ったらいいね"
+            },
+            {
+              "end": 101,
+              "start": 95,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 110,
+              "start": 102,
+              "tag": "サブカル系女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824933870439206912",
+              "start": 3,
+              "username": "Ox_e_e_xO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELae29ENhF",
+              "end": 134,
+              "expanded_url": "https://x.com/Ox_e_e_xO/status/2055061214926192909/photo/1",
+              "media_key": "3_2055061210152996864",
+              "start": 111,
+              "url": "https://t.co/ELae29ENhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059434392599318688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055061214926192909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ox_e_e_xO: 私じゃなきゃダメだと言って‼️\n\n #病み垢さんと繋がりたい #自撮り界隈さんと繋がりたい #美男美女さんと繋がりたい #雰囲気1mmでもいいと思ったらいいね #地雷系女子 #サブカル系女子 https://t.co/ELae29ENhF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055061210152996864"
+          ]
+        },
+        "author_id": "1824933870439206912",
+        "conversation_id": "2055061214926192909",
+        "created_at": "2026-05-14T23:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T00:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055061214926192909"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 45,
+              "start": 31,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 59,
+              "start": 46,
+              "tag": "美男美女さんと繋がりたい"
+            },
+            {
+              "end": 79,
+              "start": 60,
+              "tag": "雰囲気1mmでもいいと思ったらいいね"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 95,
+              "start": 87,
+              "tag": "サブカル系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELae29ENhF",
+              "end": 119,
+              "expanded_url": "https://x.com/Ox_e_e_xO/status/2055061214926192909/photo/1",
+              "media_key": "3_2055061210152996864",
+              "start": 96,
+              "url": "https://t.co/ELae29ENhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055061214926192909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2674,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私じゃなきゃダメだと言って‼️\n\n #病み垢さんと繋がりたい #自撮り界隈さんと繋がりたい #美男美女さんと繋がりたい #雰囲気1mmでもいいと思ったらいいね #地雷系女子 #サブカル系女子 https://t.co/ELae29ENhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 904,
+          "like_count": 24878,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3151
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T22:18:55.000Z",
+        "description": "歌います/社会復帰キャンセル界隈/メジコンブロンレタスで生きてる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Ox_x_x_xO",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Ox_x_x_xO",
+                "start": 0,
+                "url": "https://t.co/OnqAau9dbY"
+              }
+            ]
+          }
+        },
+        "id": "1824933870439206912",
+        "location": "ゆ~ちゅ~ぶ➡",
+        "name": "躁鬱ﾐｭ♡´-@入院中",
+        "pinned_tweet_id": "2055061214926192909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033087272028090370/yZ2HAlXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 84,
+          "like_count": 28307,
+          "listed_count": 12,
+          "media_count": 539,
+          "tweet_count": 5904
+        },
+        "url": "https://t.co/OnqAau9dbY",
+        "username": "Ox_e_e_xO",
+        "verified": false
+      }
+    ]
+  }
+}

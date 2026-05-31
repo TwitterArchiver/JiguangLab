@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051206251028348928"
+      ],
+      "media_source_tweet_id": [
+        "2051206273962848567"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059865000689422423",
+    "created_at": "2026-05-28T05:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059865000689422423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1967887882384965632",
+          "start": 3,
+          "username": "111q_a54867"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jFv5Tnd916",
+          "end": 46,
+          "expanded_url": "https://x.com/111q_a54867/status/2051206273962848567/photo/1",
+          "media_key": "3_2051206251028348928",
+          "start": 23,
+          "url": "https://t.co/jFv5Tnd916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059865000689422423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051206273962848567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @111q_a54867: 盐野义激推 https://t.co/jFv5Tnd916"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051206251028348928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdZN7GbAAAveJT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051206251028348928"
+          ],
+          "media_source_tweet_id": [
+            "2051206273962848567"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059865000689422423",
+        "created_at": "2026-05-28T05:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059865000689422423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1967887882384965632",
+              "start": 3,
+              "username": "111q_a54867"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFv5Tnd916",
+              "end": 46,
+              "expanded_url": "https://x.com/111q_a54867/status/2051206273962848567/photo/1",
+              "media_key": "3_2051206251028348928",
+              "start": 23,
+              "url": "https://t.co/jFv5Tnd916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059865000689422423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051206273962848567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @111q_a54867: 盐野义激推 https://t.co/jFv5Tnd916"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051206251028348928"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2051206273962848567",
+        "created_at": "2026-05-04T07:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051206273962848567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFv5Tnd916",
+              "end": 29,
+              "expanded_url": "https://x.com/111q_a54867/status/2051206273962848567/photo/1",
+              "media_key": "3_2051206251028348928",
+              "start": 6,
+              "url": "https://t.co/jFv5Tnd916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051206273962848567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 19774,
+          "like_count": 882,
+          "quote_count": 5,
+          "reply_count": 35,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "盐野义激推 https://t.co/jFv5Tnd916"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 953,
+          "like_count": 24970,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3195
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 1281,
+          "like_count": 7190,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 1519
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

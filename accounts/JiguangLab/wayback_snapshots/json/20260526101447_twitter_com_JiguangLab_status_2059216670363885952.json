@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059212538014052860",
+    "created_at": "2026-05-26T10:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059216670363885952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2031857545934245889",
+          "start": 0,
+          "username": "Rylph1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059216670363885952",
+    "in_reply_to_user_id": "2031857545934245889",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059212538014052860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rylph1 haha"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059212538014052860",
+        "created_at": "2026-05-26T10:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059216670363885952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2031857545934245889",
+              "start": 0,
+              "username": "Rylph1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059216670363885952",
+        "in_reply_to_user_id": "2031857545934245889",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059212538014052860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rylph1 haha"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031857545934245889",
+        "conversation_id": "2059212538014052860",
+        "created_at": "2026-05-26T09:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059212538014052860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059212538014052860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "なんだなんだガチゲーマー時代のダチが1番話しやすい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 907,
+          "like_count": 24878,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 3180
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T22:19:24.000Z",
+        "description": "07 INFP-T カオスな人生を歩んできました。\n2度目の閉鎖病棟医療保護入院中\n251 @clione0m0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "clione0m0"
+              }
+            ]
+          }
+        },
+        "id": "2031857545934245889",
+        "location": "バイ",
+        "name": "りふ (医療保護入院中)",
+        "pinned_tweet_id": "2056196463315890517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058115133248090112/U1ggDC_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 157,
+          "like_count": 2706,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 1671
+        },
+        "username": "Rylph1",
+        "verified": true
+      }
+    ]
+  }
+}

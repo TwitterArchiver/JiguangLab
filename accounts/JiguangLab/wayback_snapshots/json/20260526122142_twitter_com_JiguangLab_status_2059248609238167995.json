@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059193297743335425"
+      ],
+      "media_source_tweet_id": [
+        "2059193305074929856"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059248609238167995",
+    "created_at": "2026-05-26T12:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059248609238167995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031373996529516544",
+          "start": 3,
+          "username": "15hell_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c44msXioKu",
+          "end": 60,
+          "expanded_url": "https://x.com/15hell_/status/2059193305074929856/photo/1",
+          "media_key": "3_2059193297743335425",
+          "start": 37,
+          "url": "https://t.co/c44msXioKu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059248609238167995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059193305074929856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @15hell_: ICU管理昏睡状態気管挿管のときが苦しかったな https://t.co/c44msXioKu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2059193297743335425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO5ZOvbUAExytR.jpg",
+        "width": 1751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059193297743335425"
+          ],
+          "media_source_tweet_id": [
+            "2059193305074929856"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059248609238167995",
+        "created_at": "2026-05-26T12:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059248609238167995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031373996529516544",
+              "start": 3,
+              "username": "15hell_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c44msXioKu",
+              "end": 60,
+              "expanded_url": "https://x.com/15hell_/status/2059193305074929856/photo/1",
+              "media_key": "3_2059193297743335425",
+              "start": 37,
+              "url": "https://t.co/c44msXioKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059248609238167995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059193305074929856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @15hell_: ICU管理昏睡状態気管挿管のときが苦しかったな https://t.co/c44msXioKu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059193297743335425"
+          ]
+        },
+        "author_id": "2031373996529516544",
+        "conversation_id": "2059193305074929856",
+        "created_at": "2026-05-26T08:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059193305074929856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c44msXioKu",
+              "end": 47,
+              "expanded_url": "https://x.com/15hell_/status/2059193305074929856/photo/1",
+              "media_key": "3_2059193297743335425",
+              "start": 24,
+              "url": "https://t.co/c44msXioKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059193305074929856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6229,
+          "like_count": 152,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ICU管理昏睡状態気管挿管のときが苦しかったな https://t.co/c44msXioKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 899,
+          "like_count": 24887,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 3193
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T14:18:08.000Z",
+        "description": "いちごみるくで脳震盪",
+        "id": "2031373996529516544",
+        "name": "ちゆたん",
+        "pinned_tweet_id": "2052690296178356734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059243972330168320/iMxCp-Q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 96,
+          "like_count": 5216,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 687
+        },
+        "username": "15hell_",
+        "verified": false
+      }
+    ]
+  }
+}

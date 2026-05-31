@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058106478402379777"
+      ],
+      "media_source_tweet_id": [
+        "2058106483330666497"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059217202138755475",
+    "created_at": "2026-05-26T10:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059217202138755475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031857545934245889",
+          "start": 3,
+          "username": "Rylph1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QtbN4FF7A3",
+          "end": 57,
+          "expanded_url": "https://x.com/Rylph1/status/2058106483330666497/photo/1",
+          "media_key": "3_2058106478402379777",
+          "start": 34,
+          "url": "https://t.co/QtbN4FF7A3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059217202138755475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058106483330666497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rylph1: ディスコふれぼしゅー\nID: rylph1 https://t.co/QtbN4FF7A3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2058106478402379777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_c8BMaoAEKNhm.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058106478402379777"
+          ],
+          "media_source_tweet_id": [
+            "2058106483330666497"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059217202138755475",
+        "created_at": "2026-05-26T10:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059217202138755475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031857545934245889",
+              "start": 3,
+              "username": "Rylph1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtbN4FF7A3",
+              "end": 57,
+              "expanded_url": "https://x.com/Rylph1/status/2058106483330666497/photo/1",
+              "media_key": "3_2058106478402379777",
+              "start": 34,
+              "url": "https://t.co/QtbN4FF7A3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059217202138755475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058106483330666497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rylph1: ディスコふれぼしゅー\nID: rylph1 https://t.co/QtbN4FF7A3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058106478402379777"
+          ]
+        },
+        "author_id": "2031857545934245889",
+        "conversation_id": "2058106483330666497",
+        "created_at": "2026-05-23T08:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058106483330666497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtbN4FF7A3",
+              "end": 45,
+              "expanded_url": "https://x.com/Rylph1/status/2058106483330666497/photo/1",
+              "media_key": "3_2058106478402379777",
+              "start": 22,
+              "url": "https://t.co/QtbN4FF7A3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058106483330666497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ディスコふれぼしゅー\nID: rylph1 https://t.co/QtbN4FF7A3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 908,
+          "like_count": 24879,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 3181
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T22:19:24.000Z",
+        "description": "07 INFP-T カオスな人生を歩んできました。\n2度目の閉鎖病棟医療保護入院中\n251 @clione0m0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "clione0m0"
+              }
+            ]
+          }
+        },
+        "id": "2031857545934245889",
+        "location": "バイ",
+        "name": "りふ (医療保護入院中)",
+        "pinned_tweet_id": "2056196463315890517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058115133248090112/U1ggDC_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 157,
+          "like_count": 2709,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 1671
+        },
+        "username": "Rylph1",
+        "verified": true
+      }
+    ]
+  }
+}

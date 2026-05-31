@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1847712034361659392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2059533287350231105",
+    "created_at": "2026-05-27T07:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059533287350231105"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 17,
+          "tag": "COMITIA156"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059533287350231105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058439830598799868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaa____dry: #COMITIA156 \n6月7日(日)に東京ビッグサイトで開催されるCOMITIA156に参加致します！\n以下、地図のようなものです。\n一次創作デスゲーム新刊や前回頒布した画集、新しいグッズや、ステッカーなども出しますのでどうぞ寄っていってく…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058439825582358529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEMHYNagAEYEUp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2059533287350231105",
+        "created_at": "2026-05-27T07:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059533287350231105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "COMITIA156"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059533287350231105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058439830598799868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaa____dry: #COMITIA156 \n6月7日(日)に東京ビッグサイトで開催されるCOMITIA156に参加致します！\n以下、地図のようなものです。\n一次創作デスゲーム新刊や前回頒布した画集、新しいグッズや、ステッカーなども出しますのでどうぞ寄っていってく…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058439825582358529"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2058439830598799868",
+        "created_at": "2026-05-24T06:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058439830598799868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "COMITIA156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdwJIhar5l",
+              "end": 152,
+              "expanded_url": "https://x.com/aaaa____dry/status/2058439830598799868/photo/1",
+              "media_key": "3_2058439825582358529",
+              "start": 129,
+              "url": "https://t.co/HdwJIhar5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058439830598799868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1968,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#COMITIA156 \n6月7日(日)に東京ビッグサイトで開催されるCOMITIA156に参加致します！\n以下、地図のようなものです。\n一次創作デスゲーム新刊や前回頒布した画集、新しいグッズや、ステッカーなども出しますのでどうぞ寄っていってくださいね〜🎵 https://t.co/HdwJIhar5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059470773912580096/FPcI1SrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 924,
+          "like_count": 24906,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3164
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "無断転載❌\n⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎\nsub→@mosohk_sub\n依頼等DMまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "mosohk_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MCquz"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "location": " 𝐡_ @9_Un_ya__ ",
+        "name": "妄想癖 @COMITIA156 G28b",
+        "pinned_tweet_id": "2058439830598799868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10444,
+          "following_count": 147,
+          "like_count": 13137,
+          "listed_count": 36,
+          "media_count": 1641,
+          "tweet_count": 3766
+        },
+        "url": "https://t.co/t6kH1MCquz",
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

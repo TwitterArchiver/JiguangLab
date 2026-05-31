@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059755243139981312",
+        "3_2059755243135741952",
+        "3_2059755243169349632"
+      ],
+      "media_source_tweet_id": [
+        "2059755247942488222",
+        "2059755247942488222",
+        "2059755247942488222"
+      ]
+    },
+    "author_id": "1847712034361659392",
+    "conversation_id": "2059786631700431003",
+    "created_at": "2026-05-27T23:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T00:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059786631700431003"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 52,
+          "tag": "病み垢さんとお友達になりたい"
+        },
+        {
+          "end": 83,
+          "start": 69,
+          "tag": "病み垢さんと仲良くなりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1319695309295939584",
+          "start": 3,
+          "username": "k6_1c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X1Oda9iSWT",
+          "end": 107,
+          "expanded_url": "https://x.com/k6_1c/status/2059755247942488222/photo/1",
+          "media_key": "3_2059755243139981312",
+          "start": 84,
+          "url": "https://t.co/X1Oda9iSWT"
+        },
+        {
+          "display_url": "pic.x.com/X1Oda9iSWT",
+          "end": 107,
+          "expanded_url": "https://x.com/k6_1c/status/2059755247942488222/photo/1",
+          "media_key": "3_2059755243135741952",
+          "start": 84,
+          "url": "https://t.co/X1Oda9iSWT"
+        },
+        {
+          "display_url": "pic.x.com/X1Oda9iSWT",
+          "end": 107,
+          "expanded_url": "https://x.com/k6_1c/status/2059755247942488222/photo/1",
+          "media_key": "3_2059755243169349632",
+          "start": 84,
+          "url": "https://t.co/X1Oda9iSWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059786631700431003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059755247942488222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k6_1c: お友達ほちぃ\n\n仲良くしてくれる人募集中\n\nOD、病み期、人間関係むずかちぃ。\n\n#病み垢さんとお友達になりたい \n#病み垢さんと仲良くなりたい https://t.co/X1Oda9iSWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2059755243139981312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJW4ewebYAAbg_E.jpg",
+        "width": 1020
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2059755243135741952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJW4ewdasAACfJS.jpg",
+        "width": 880
+      },
+      {
+        "height": 1349,
+        "media_key": "3_2059755243169349632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJW4ewlbgAAWp14.jpg",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059755243139981312",
+            "3_2059755243135741952",
+            "3_2059755243169349632"
+          ],
+          "media_source_tweet_id": [
+            "2059755247942488222",
+            "2059755247942488222",
+            "2059755247942488222"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2059786631700431003",
+        "created_at": "2026-05-27T23:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059786631700431003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 52,
+              "tag": "病み垢さんとお友達になりたい"
+            },
+            {
+              "end": 83,
+              "start": 69,
+              "tag": "病み垢さんと仲良くなりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1319695309295939584",
+              "start": 3,
+              "username": "k6_1c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1Oda9iSWT",
+              "end": 107,
+              "expanded_url": "https://x.com/k6_1c/status/2059755247942488222/photo/1",
+              "media_key": "3_2059755243139981312",
+              "start": 84,
+              "url": "https://t.co/X1Oda9iSWT"
+            },
+            {
+              "display_url": "pic.x.com/X1Oda9iSWT",
+              "end": 107,
+              "expanded_url": "https://x.com/k6_1c/status/2059755247942488222/photo/1",
+              "media_key": "3_2059755243135741952",
+              "start": 84,
+              "url": "https://t.co/X1Oda9iSWT"
+            },
+            {
+              "display_url": "pic.x.com/X1Oda9iSWT",
+              "end": 107,
+              "expanded_url": "https://x.com/k6_1c/status/2059755247942488222/photo/1",
+              "media_key": "3_2059755243169349632",
+              "start": 84,
+              "url": "https://t.co/X1Oda9iSWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059786631700431003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059755247942488222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k6_1c: お友達ほちぃ\n\n仲良くしてくれる人募集中\n\nOD、病み期、人間関係むずかちぃ。\n\n#病み垢さんとお友達になりたい \n#病み垢さんと仲良くなりたい https://t.co/X1Oda9iSWT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059755243139981312",
+            "3_2059755243135741952",
+            "3_2059755243169349632"
+          ]
+        },
+        "author_id": "1319695309295939584",
+        "conversation_id": "2059755247942488222",
+        "created_at": "2026-05-27T21:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059755247942488222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 41,
+              "tag": "病み垢さんとお友達になりたい"
+            },
+            {
+              "end": 72,
+              "start": 58,
+              "tag": "病み垢さんと仲良くなりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1Oda9iSWT",
+              "end": 96,
+              "expanded_url": "https://x.com/k6_1c/status/2059755247942488222/photo/1",
+              "media_key": "3_2059755243139981312",
+              "start": 73,
+              "url": "https://t.co/X1Oda9iSWT"
+            },
+            {
+              "display_url": "pic.x.com/X1Oda9iSWT",
+              "end": 96,
+              "expanded_url": "https://x.com/k6_1c/status/2059755247942488222/photo/1",
+              "media_key": "3_2059755243135741952",
+              "start": 73,
+              "url": "https://t.co/X1Oda9iSWT"
+            },
+            {
+              "display_url": "pic.x.com/X1Oda9iSWT",
+              "end": 96,
+              "expanded_url": "https://x.com/k6_1c/status/2059755247942488222/photo/1",
+              "media_key": "3_2059755243169349632",
+              "start": 73,
+              "url": "https://t.co/X1Oda9iSWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059755247942488222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "お友達ほちぃ\n\n仲良くしてくれる人募集中\n\nOD、病み期、人間関係むずかちぃ。\n\n#病み垢さんとお友達になりたい \n#病み垢さんと仲良くなりたい https://t.co/X1Oda9iSWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 938,
+          "like_count": 24937,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3174
+        },
+        "username": "JiguangLab",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T17:41:28.000Z",
+        "description": "病み垢/日常垢/愚痴垢/ 生きてるって大変ね/DM◎ /OD/リスカ/ 人生は生きるための暇つぶし。お友達募集",
+        "id": "1319695309295939584",
+        "name": "𓈒𓂂𓆩 莉愛𓆪𓈒𓂂",
+        "pinned_tweet_id": "2059755247942488222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057082855155748864/6lz3kI0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 3598,
+          "like_count": 26808,
+          "listed_count": 36,
+          "media_count": 473,
+          "tweet_count": 10383
+        },
+        "username": "k6_1c",
+        "verified": false
+      }
+    ]
+  }
+}
