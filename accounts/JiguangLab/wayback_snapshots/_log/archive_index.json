@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-08T17:25:04",
+  "last_updated": "2026-06-08T17:25:20",
   "html": {
     "https://web.archive.org/web/20260518122847if_/https://twitter.com/JiguangLab/status/2056351291207790768": {
       "status": "done",
@@ -1088,14 +1088,14 @@
       "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2059243972330168320/iMxCp-Q7_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260526122142_twitter_com_JiguangLab_status_2059248609238167995.json",
         "20260526122208_twitter_com_JiguangLab_status_2059248721918124332.json"
       ],
-      "last_updated": "2026-06-07T06:38:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526122208if_/https://pbs.twimg.com/profile_images/2059243972330168320/iMxCp-Q7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff0dadec9b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-06-08T17:25:20",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260526122208if_/https://pbs.twimg.com/profile_images/2059243972330168320/iMxCp-Q7_normal.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/profile_images/1933402940670423041/EQG5idmC_normal.jpg": {
       "status": "done",
@@ -1949,7 +1949,7 @@
       "miss_count": 2
     },
     "20260526122142_twitter_com_JiguangLab_status_2059248609238167995.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJO5ZOvbUAExytR.jpg"
@@ -1960,11 +1960,11 @@
           "https://pbs.twimg.com/profile_images/2059243972330168320/iMxCp-Q7_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-08T17:25:04",
+      "last_updated": "2026-06-08T17:25:20",
       "miss_count": 4
     },
     "20260526122208_twitter_com_JiguangLab_status_2059248721918124332.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHye8aqbMAA73Qz.jpg"
@@ -1975,7 +1975,7 @@
           "https://pbs.twimg.com/profile_images/2059243972330168320/iMxCp-Q7_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-08T17:25:04",
+      "last_updated": "2026-06-08T17:25:20",
       "miss_count": 4
     },
     "20260526122238_twitter_com_JiguangLab_status_2059248845603926223.json": {
