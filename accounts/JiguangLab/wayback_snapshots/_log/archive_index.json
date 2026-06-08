@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-07T06:38:18",
+  "last_updated": "2026-06-08T17:24:38",
   "html": {
     "https://web.archive.org/web/20260518122847if_/https://twitter.com/JiguangLab/status/2056351291207790768": {
       "status": "done",
@@ -549,14 +549,14 @@
       "referenced_by": [
         "20260526122142_twitter_com_JiguangLab_status_2059248609238167995.json"
       ],
-      "last_updated": "2026-06-07T06:32:20"
+      "last_updated": "2026-06-08T17:24:20"
     },
     "https://pbs.twimg.com/media/HHye8aqbMAA73Qz.jpg": {
       "status": "done",
       "referenced_by": [
         "20260526122208_twitter_com_JiguangLab_status_2059248721918124332.json"
       ],
-      "last_updated": "2026-06-07T06:32:20"
+      "last_updated": "2026-06-08T17:24:20"
     },
     "https://pbs.twimg.com/media/HJQDNJIbMAATTBt.jpg": {
       "status": "done",
@@ -668,34 +668,34 @@
       "referenced_by": [
         "20260527082628_twitter_com_JiguangLab_status_2059551798843822382.json"
       ],
-      "last_updated": "2026-06-07T06:32:20"
+      "last_updated": "2026-06-08T17:24:20"
     },
     "https://pbs.twimg.com/media/HJT_ceoaIAA3rqq.jpg": {
       "status": "failed_all",
       "referenced_by": [
         "20260527082628_twitter_com_JiguangLab_status_2059551798843822382.json"
       ],
-      "last_updated": "2026-06-07T06:32:24",
+      "last_updated": "2026-06-08T17:24:24",
       "last_reason": "HTTPError: 404 Client Error: Not Found for url: https://web.archive.org/web/20260531063335/https://pbs.twimg.com/media/HJT_ceoaIAA3rqq.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HJT_ciqasAARLcf.jpg": {
       "status": "failed_all",
       "referenced_by": [
         "20260527082628_twitter_com_JiguangLab_status_2059551798843822382.json"
       ],
-      "last_updated": "2026-06-07T06:32:26",
+      "last_updated": "2026-06-08T17:24:27",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260527082628/https://pbs.twimg.com/media/HJT_ciqasAARLcf.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HJT_ckOaUAAXMdN.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260527082628_twitter_com_JiguangLab_status_2059551798843822382.json"
       ],
-      "last_updated": "2026-06-07T06:32:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527082628im_/https://pbs.twimg.com/media/HJT_ckOaUAAXMdN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd3c35e6c30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-06-08T17:24:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527082628if_/https://pbs.twimg.com/media/HJT_ckOaUAAXMdN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4f94831c70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJT_vpzbQAEkbdY.jpg": {
       "status": "done",
@@ -1960,8 +1960,8 @@
           "https://pbs.twimg.com/profile_images/2059243972330168320/iMxCp-Q7_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-07T06:34:44",
-      "miss_count": 2
+      "last_updated": "2026-06-08T17:24:20",
+      "miss_count": 3
     },
     "20260526122208_twitter_com_JiguangLab_status_2059248721918124332.json": {
       "status": "failed",
@@ -1975,8 +1975,8 @@
           "https://pbs.twimg.com/profile_images/2059243972330168320/iMxCp-Q7_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-07T06:34:44",
-      "miss_count": 2
+      "last_updated": "2026-06-08T17:24:20",
+      "miss_count": 3
     },
     "20260526122238_twitter_com_JiguangLab_status_2059248845603926223.json": {
       "status": "done",
@@ -2295,8 +2295,8 @@
           "https://pbs.twimg.com/profile_images/2059551158373621760/mLGvZBuz_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-07T06:34:44",
-      "miss_count": 2
+      "last_updated": "2026-06-08T17:24:33",
+      "miss_count": 3
     },
     "20260527082749_twitter_com_JiguangLab_status_2059552139131916649.json": {
       "status": "done",
